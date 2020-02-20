@@ -1,0 +1,5 @@
+[
+  {"author": "Ann", "text": "Some text1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium ad aliquam aliquid, aperiam eos error harum incidunt nemo nesciunt nulla obcaecati, perferendis quo quos repellat similique sit unde veritatis.", "id": 1},
+  {"author": "John", "text": "Some text2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium ad aliquam aliquid, aperiam eos error harum incidunt nemo nesciunt nulla obcaecati, perferendis quo quos repellat similique sit unde veritatis.", "id": 2},
+  {"author": "Anton", "text": "Some text3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium ad aliquam aliquid, aperiam eos error harum incidunt nemo nesciunt nulla obcaecati, perferendis quo quos repellat similique sit unde veritatis.", "id": 3}
+]

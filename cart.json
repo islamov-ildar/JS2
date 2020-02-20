@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "quantity": 2,
+    "price": 150,
+    "productImgSrc": "images/products/layer-43.jpg",
+    "alt": "Amazing windbreaker",
+    "name": "Mango  People  T-shirt",
+    "color": "Red",
+    "size": "XXL",
+    "shippingTerms": "free"
+  },
+  {
+    "id": 2,
+    "quantity": 1,
+    "price": 150,
+    "productImgSrc": "images/products/layer-44.jpg",
+    "alt": "Amazing Blazer",
+    "name": "Mango  People  T-shirt",
+    "color": "Red",
+    "size": "XXL",
+    "shippingTerms": "free"
+  },
+  {
+    "id": 3,
+    "quantity": 1,
+    "price": 150,
+    "productImgSrc": "images/products/layer-49.jpg",
+    "alt": "Amazing Coat",
+    "name": "Mango  People  T-shirt",
+    "color": "Red",
+    "size": "XXL",
+    "shippingTerms": "free"
+  }
+]
